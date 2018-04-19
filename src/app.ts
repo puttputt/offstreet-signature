@@ -43,7 +43,7 @@ export class App {
     this.profile = localStorage.profile ? JSON.parse(localStorage.profile) : {
       name: '',
       position: '',
-      img: 'https://imgur.com/OZ2Z9DS',
+      img: 'https://i.imgur.com/OZ2Z9DS.png',
       _phone: '',
       _facebook: '',
       _github: '',
